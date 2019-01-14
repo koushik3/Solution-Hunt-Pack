@@ -1,0 +1,37 @@
+abstract
+"
+
+
+    The tool should integrate seamlessly with www.tatainnoverse.com
+    It should extract the keywords from the challenge uploaded on Tata Innoverse.com without any supervision
+    The keyword extraction algorithm must be highly accurate, close to 95% accuracy expected.
+    It should allow the user to edit the keyword list and then take it again as an input for solution scouting
+    It should crawl the Internet and extract information from all available sources that are present on Internet
+    It should create a report after the search is over. The report should be properly formatted and the information searched should be tagged according to the keywords that were used for searching the information.
+    The end user should be able to define the duration for which the search is to be performed.
+    The end user should be able to also define the level of accuracy, in relation to the keyword list, with which the search is to be performed.
+
+
+
+
+"
+
+
+"
+
+    The tool should integrate seamlessly with www.tatainnoverse.com
+    It should extract the keywords from the challenge uploaded on Tata Innoverse.com without any supervision
+    The keyword extraction algorithm must be highly accurate, close to 95% accuracy expected.
+    It should allow the user to edit the keyword list and then take it again as an input for solution scouting
+    It should crawl the Internet and extract information from all available sources that are present on Internet
+    It should create a report after the search is over. The report should be properly formatted and the information searched should be tagged according to the keywords that were used for searching the information.
+    The end user should be able to define the duration for which the search is to be performed.
+    The end user should be able to also define the level of accuracy, in relation to the keyword list, with which the search is to be performed.
+
+
+
+
+
+
+
+"
